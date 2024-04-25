@@ -1,7 +1,7 @@
 # learning-log-and-guide-for-learner 
 
 
-learning log
+
 Here is my coursework GitHub link.
 https://github.com/AlexChenYAOZHAGN/prog-black-assignment2  
 
