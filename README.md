@@ -1,11 +1,16 @@
 # learning-log-and-guide-for-learner 
 
-##This the learning log:
+
 learning log
-CHEN YAOZHANG 
-id:001098929
-Here is my GitHub link.
-```############################# ```  https://github.com/AlexChenYAOZHAGN/prog-black-assignment2   ```###############################```
+Here is my coursework GitHub link.
+https://github.com/AlexChenYAOZHAGN/prog-black-assignment2  
+
+ the link of the learning log and guide for learners.
+ https://github.com/AlexChenYAOZHAGN/learning-log-and-guide-for-learners/blob/main/README.md
+ 
+ 
+ ##This the learning log:
+ 
  My classmates and I worked together to develop a website, a shopping website that sells Durham University souvenirs. This assignment was completed in collaboration with other students. The parts I completed are index.html, product.html, checkout.html, search.html, products.js, deliveryOptions.js. In addition, I also provide the images needed for the website. Includes pictures of souvenirs and pictures of various icons
 
 ########################################### First entry     ###
